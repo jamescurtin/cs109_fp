@@ -12,6 +12,17 @@ Run autocorrelation on data
 
 ---
 
+http://www.federalreserve.gov/monetarypolicy/fomc_historical.htm
+Pre-2009 transcripts also available
+
+---
+
+Loughran and McDonald Financial Sentiment Dictionary - See more at: http://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/sentiment-dictionaries/#sthash.6xFphOR7.dpuf
+
+http://www3.nd.edu/~mcdonald/Word_Lists.html
+
+---
+
 Other potential data source: http://www.tradingeconomics.com/analytics/features.aspx?source=footer
 
 http://cs.nyu.edu/~lakshmi/bigdata/Finance.html
