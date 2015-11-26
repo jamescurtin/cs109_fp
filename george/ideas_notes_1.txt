@@ -1,0 +1,19 @@
+Meeting minutes 
+
+http://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+Statements all have the same format
+
+Format:
+-List of people present
+-subsections given by <strong> tag and at least a few characters long (some are empty)
+
+Run autocorrelation on data
+
+---
+
+Other potential data source: http://www.tradingeconomics.com/analytics/features.aspx?source=footer
+
+http://cs.nyu.edu/~lakshmi/bigdata/Finance.html
+I can't find the paper but the results are interesting
+
