@@ -6,7 +6,12 @@ Team Name: Robert'); DROP TABLE students;--
 
 Team Members: James Curtin, Essam El-Messiri, George Zeng
 
-Directions for reading the notebook:
--Start with data_scraping.ipynb. This notebook outlines out data scraping procedure on the FOMC website and Wikipedia are helpful for understanding how our data is stored.
--Continue to analysis.ipynb. This notebook is the main notebook of analysis that we performed for the project.
+Our video can be found here: https://youtu.be/FCd0tPh5D-8
+Our website is located at https://cs109finalproject.wordpress.com/
+
+Directions for reading the notebook in the cs109_fp/tree/master/process_notebooks folder:
+
+(1) Start with data_scraping.ipynb. This notebook outlines out data scraping procedure on the FOMC website and Wikipedia are helpful for understanding how our data is stored.
+
+(2) Continue to analysis.ipynb. This notebook is the main notebook of analysis that we performed for the project.
 
