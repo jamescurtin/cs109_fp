@@ -4,9 +4,10 @@ CS109 Final Project
 
 Team Name: Robert'); DROP TABLE students;--
 
-Team Members: James Curtin, Essam El-Messiri, George Zeng
+Team Members: James Curtin, Essam El Messiri, George Zeng
 
-Our video can be found here: https://youtu.be/FCd0tPh5D-8
+Our video can be found here: https://youtu.be/FCd0tPh5D-8. 
+
 Our website is located at https://cs109finalproject.wordpress.com/
 
 Directions for reading the notebook in the cs109_fp/tree/master/process_notebooks folder:
